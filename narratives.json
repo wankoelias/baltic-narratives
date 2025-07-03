@@ -6,8 +6,8 @@
     "tags": "climate,pollution",
     "official": true,
     "file": "https://esa-eodash.github.io/eodashboard-narratives/first_narrative.md",
-    "title": "",
-    "subtitle": "",
-    "image": ""
+    "title": " Story hero title and image",
+    "subtitle": "Read more about COVID-19 impacts on air travel with EO and AI",
+    "image": "assets/previews/1080_preview.png"
   }
 ]
