@@ -7,7 +7,7 @@ official: true
 ---
 
 #  Story hero title and image <!--{ as="img" mode="hero" src="https://picsum.photos/id/10/1920/1080" }-->
-### Read more about COVID-19 impacts on air travel with EO and AI <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
+### Hero subtitle text <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
 
 ## Subtitle
 
