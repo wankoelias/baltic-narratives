@@ -18,20 +18,9 @@ At the heart of the UEPM service is the Energy Performance Index. It is created 
 
 UEPM is not intended to replace audits or official certificates but to complement them. It functions as a large scale screening tool that municipalities can use to detect inefficiency hotspots, to shape renovation strategies, and to design policies that deliver the strongest results in energy savings, emission reductions and reduced energy poverty.
 
-
-
-[Placeholder for Illustration] : Sentinel 3 thermal imagery before and after downscaling
-
-
-
-[Placeholder for Illustration] : Service Sreenshot
-
-
 ## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/cweber1995/baltic-narratives/cweber1995/urban-energy-performance-monitor-uepm/assets/cweber1995/LST-1749976008835-1756888041911.jpg" src="https://raw.githubusercontent.com/baltic-gtif/baltic-narratives/ad39823f71fbfcaa2bea5ad3af94a2a269714826/assets/LST-1749976008835-1756888041911.jpg" style="width: 100%; height: 300px;"}-->
 
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/cweber1995/baltic-narratives/cweber1995/urban-energy-performance-monitor-uepm/assets/cweber1995/LST-2-1749976234454-1756888056669.jpg" src="https://raw.githubusercontent.com/baltic-gtif/baltic-narratives/b1e72c2a613dabb33fc3d5f2f8784069e882e375/assets/LST-2-1749976234454-1756888056669.jpg" style="width: 100%; height: 500px;"}-->
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/cweber1995/baltic-narratives/cweber1995/urban-energy-performance-monitor-uepm/assets/cweber1995/LST-3-1749976252699-1756888069899.jpg" src="https://raw.githubusercontent.com/baltic-gtif/baltic-narratives/fae477f78485f4cc902933a642c75e4f74c96836/assets/LST-3-1749976252699-1756888069899.jpg" style="width: 100%; height: 300px;"}-->
+*Figure 2 – Comparison of Sentinel-3 Original LST (1km resolution) and Sentinel-3 Downscaled LST (30m resolution)*
 
 ## Delivery Process
 UEPM is designed to fit the needs of municipalities. The municipality begins by defining an Area of Interest which may be a district, a neighbourhood or an entire city. Satellite data is then processed and combined with urban indices and climate information. This generates the performance index and related analyses.
@@ -40,6 +29,8 @@ The results can be delivered in several formats. An interactive web dashboard al
 
 
 ## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/cweber1995/baltic-narratives/cweber1995/urban-energy-performance-monitor-uepm/assets/cweber1995/Dashboard-draft-2-1749976689208-1756888163397.jpg" src="https://raw.githubusercontent.com/baltic-gtif/baltic-narratives/6eacf73ea95004d36fea479fa2558bbab5bde25c/assets/Dashboard-draft-2-1749976689208-1756888163397.jpg" style="width: 100%; height: 600px;"}-->
+
+*Figure 3 – Mockup of the analysis map*
 
 ## About
 The Baltic GTIF activity is part of the Green Transition Information Factory, an initiative supported by the European Space Agency that fosters innovative services based on Earth Observation for climate and energy transition.
