@@ -1,8 +1,9 @@
 ---
-cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/update-7/assets/triebnigg/GeminiGeneratedImage9cx6of9cx6of9cx6-1756889924360reduced-1757169858310.jpg)
+cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/update-7/assets/triebnigg/GeminiGeneratedImage9cx6of9cx6of9cx6-1756889924360reduced-1757169858310.jpg
 
 domain: Sustainable Cities
-tags:  remote sensing, surface temperature, Sentinel-3
+
+tags: remote sensing, surface temperature, Sentinel-3
 
 ---
 
