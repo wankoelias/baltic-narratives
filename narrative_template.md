@@ -1,13 +1,13 @@
 ---
 cover-image: https://picsum.photos/id/10/1920/1080
 date: 2025-01-01
-theme: atmosphere
+theme: atmosphere, sustainable cities
 tags: climate,pollution
 official: true
 ---
 
-#  Story hero title and image <!--{ as="img" mode="hero" src="https://picsum.photos/id/10/1920/1080" }-->
-### Hero subtitle text <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
+#  Narrative Template <!--{ as="img" mode="hero" src="https://picsum.photos/id/10/1920/1080" }-->
+### Narrative subtitle text <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
 
 ## Problems & Needs
 
