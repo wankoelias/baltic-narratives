@@ -1,11 +1,18 @@
-## Urban Energy Performance Monitor (UEPM)
-### Problems & Needs
+---
+cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/Energy-performance-of-buildings-cover-1749975298270.png
+
+domain: Sustainable Cities
+tags:  remote sensing, surface temperature, Sentinel-3
+
+---
+
+# Urban Energy Performance Monitor (UEPM)
+## Problems & Needs
 Europe’s building stock is central to the energy transition. Buildings account for around 40 percent of energy consumption in the EU and more than one third of greenhouse gas emissions [[1]](https://energy.ec.europa.eu/topics/energy-efficiency/energy-performance-buildings/energy-performance-buildings-directive_en) [[2]](https://ec.europa.eu/commission/presscorner/detail/en/qanda_20_1836). Three quarters of the European building stock is energy inefficient and 85 percent was built before the year 2000 [[1]](https://energy.ec.europa.eu/topics/energy-efficiency/energy-performance-buildings/energy-performance-buildings-directive_en). At the current renovation rate of only about one percent per year, modernisation is far too slow to meet the European Union’s target of climate neutrality by 2050 [[1]](https://energy.ec.europa.eu/topics/energy-efficiency/energy-performance-buildings/energy-performance-buildings-directive_en) [[2]](https://ec.europa.eu/commission/presscorner/detail/en/qanda_20_1836).
 
 The EU Buildings Climate Tracker provides a useful overall indicator at European level but does not reveal how energy performance varies between cities, neighbourhoods or groups of buildings [[3]](https://build-up.ec.europa.eu/en/resources-and-tools/publications/eu-buildings-climate-tracker-3rd-edition). Municipalities are the actors that need to plan renovation strategies and heating transition pathways, yet they often lack reliable and detailed information that would help them to direct these efforts to the right places.
 
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/cweber1995/baltic-narratives/cweber1995/urban-energy-performance-monitor-uepm/assets/cweber1995/EU-building-climate-tracker-1749975759643-1756887749842.jpg" src="https://raw.githubusercontent.com/baltic-gtif/baltic-narratives/66caad6d7bfd227e7a852a56d1f3d787609913f9/assets/EU-building-climate-tracker-1749975759643-1756887749842.jpg" style="width: 100%; height: 500px;"}-->
+![](https://raw.githubusercontent.com/cweber1995/baltic-narratives/cweber1995/urban-energy-performance-monitor-uepm/assets/cweber1995/EU-building-climate-tracker-1749975759643-1756887749842.jpg)
 
 *Figure 1 – The EU BCT represents a global index for the whole of the EU. However, conclusions about local settings, trends and forecasts cannot be derived from it. Geographical disaggregation of such an index and of related evidence data would therefore be desirable for supporting more granular policies and a monitoring of their implementation.*
 
@@ -18,7 +25,7 @@ At the heart of the UEPM service is the Energy Performance Index. It is created 
 
 UEPM is not intended to replace audits or official certificates but to complement them. It functions as a large scale screening tool that municipalities can use to detect inefficiency hotspots, to shape renovation strategies, and to design policies that deliver the strongest results in energy savings, emission reductions and reduced energy poverty.
 
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/cweber1995/baltic-narratives/cweber1995/urban-energy-performance-monitor-uepm/assets/cweber1995/LST-1749976008835-1756888041911.jpg" src="https://raw.githubusercontent.com/baltic-gtif/baltic-narratives/ad39823f71fbfcaa2bea5ad3af94a2a269714826/assets/LST-1749976008835-1756888041911.jpg" style="width: 100%; height: 300px;"}-->
+![](https://raw.githubusercontent.com/cweber1995/baltic-narratives/cweber1995/urban-energy-performance-monitor-uepm/assets/cweber1995/LST-1749976008835-1756888041911.jpg)
 
 *Figure 2 – Comparison of Sentinel-3 Original LST (1km resolution) and Sentinel-3 Downscaled LST (30m resolution)*
 
@@ -27,8 +34,7 @@ UEPM is designed to fit the needs of municipalities. The municipality begins by 
 
 The results can be delivered in several formats. An interactive web dashboard allows explorative browsing of maps. Application programming interfaces are planned to provide access for integration into municipal planning and geographic information systems. Standard file formats can also be provided for sharing and documentation.
 
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/cweber1995/baltic-narratives/cweber1995/urban-energy-performance-monitor-uepm/assets/cweber1995/Dashboard-draft-2-1749976689208-1756888163397.jpg" src="https://raw.githubusercontent.com/baltic-gtif/baltic-narratives/6eacf73ea95004d36fea479fa2558bbab5bde25c/assets/Dashboard-draft-2-1749976689208-1756888163397.jpg" style="width: 100%; height: 600px;"}-->
+![](https://raw.githubusercontent.com/cweber1995/baltic-narratives/cweber1995/urban-energy-performance-monitor-uepm/assets/cweber1995/Dashboard-draft-2-1749976689208-1756888163397.jpg)
 
 *Figure 3 – Mockup of the analysis map*
 
