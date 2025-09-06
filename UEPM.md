@@ -1,5 +1,5 @@
 ---
-cover-image: https://raw.githubusercontent.com/cweber1995/baltic-narratives/cweber1995/urban-energy-performance-monitor-uepm/assets/cweber1995/EU-building-climate-tracker-1749975759643-1756887749842.jpg
+cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/update-7/assets/triebnigg/GeminiGeneratedImage9cx6of9cx6of9cx6-1756889924360reduced-1757169858310.jpg)
 
 domain: Sustainable Cities
 tags:  remote sensing, surface temperature, Sentinel-3
