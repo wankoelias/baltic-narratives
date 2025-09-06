@@ -1,7 +1,7 @@
 ---
 cover-image: https://picsum.photos/id/10/1920/1080
 date: 2025-01-01
-theme: atmosphere [//]: # "choose one from: atmosphere, sustainable cities"
+theme: atmosphere # "choose one from: atmosphere, sustainable cities"
 tags: climate,pollution
 official: true
 ---
