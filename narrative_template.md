@@ -1,7 +1,7 @@
 ---
 cover-image: https://picsum.photos/id/10/1920/1080
 date: 2025-01-01
-theme: Energy Transition, Sustainable Cities # choose one from: Energy Transition, Mobility Transition, Sustainable Cities, Carbon Accounting, EO Adaptation Services
+theme: Energy Transition # choose one from: Energy Transition, Mobility Transition, Sustainable Cities, Carbon Accounting, EO Adaptation Services
 tags: Climate, Pollution, Atmosphere # chose any text
 official: true
 ---
