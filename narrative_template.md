@@ -1,8 +1,8 @@
 ---
 cover-image: https://picsum.photos/id/10/1920/1080
 date: 2025-01-01
-theme: atmosphere # "choose one from: atmosphere, sustainable cities"
-tags: climate,pollution
+theme: energy transition, sustainable cities # choose one or more from: energy transition, mobility transition, sustainable cities, carbon accounting, EO adaptation Services
+tags: climate, pollution, atmosphere # chose any free text
 official: true
 ---
 
