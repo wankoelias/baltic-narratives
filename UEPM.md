@@ -6,7 +6,7 @@ tags: remote sensing, surface temperature, Sentinel-3
 official: true
 ---
 
-# Urban Energy Performance Monitor (UEPM) <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/Energy-performance-of-buildings-hero-1749975057844.jpg" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/1434714ec07a9fe83bae56f7978ed34024a28287/assets/Energy-performance-of-buildings-hero-1749975057844.jpg" }-->
+# Urban Energy Performance Monitor (UEPM) <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/update-7/assets/triebnigg/GeminiGeneratedImage9cx6of9cx6of9cx6-1756889924360reduced-1757169858310.jpg" mode="hero" src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/update-7/assets/triebnigg/GeminiGeneratedImage9cx6of9cx6of9cx6-1756889924360reduced-1757169858310.jpg" }-->
 ### Local Observer Service provided by OHB Digital Services <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
 ## Problems & Needs
