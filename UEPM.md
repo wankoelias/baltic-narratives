@@ -1,5 +1,5 @@
 ---
-cover-image: https://github.com/baltic-gtif/baltic-narratives/blob/main/assets/cweber1995/GeminiGeneratedImage9cx6of9cx6of9cx6-1756889924360_Ausschnitt.png
+cover-image: https://github.com/baltic-gtif/baltic-narratives/blob/main/assets/cweber1995/GeminiGeneratedImage9cx6of9cx6of9cx6-1756889924360_reduced.jpg
 
 domain: Sustainable Cities
 tags:  remote sensing, surface temperature, Sentinel-3
