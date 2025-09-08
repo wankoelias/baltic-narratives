@@ -1,12 +1,12 @@
 ---
-cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/update-7/assets/triebnigg/GeminiGeneratedImage9cx6of9cx6of9cx6-1756889924360reduced-1757169858310.jpg
+cover-image: https://workspace-ui-public.baltic-gtif.hub-otc.eox.at/api/public/share/public-4wazei3y-02/UEPM/GeminiGeneratedImage9cx6of9cx6of9cx6-1756889924360_reduced.jpg
 date: 2025-09-06
 theme: Sustainable Cities
 tags: remote sensing, surface temperature, Sentinel-3
 official: true
 ---
 
-# Urban Energy Performance Monitor <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/update-7/assets/triebnigg/GeminiGeneratedImage9cx6of9cx6of9cx6-1756889924360reduced-1757169858310.jpg" mode="hero" src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/update-7/assets/triebnigg/GeminiGeneratedImage9cx6of9cx6of9cx6-1756889924360reduced-1757169858310.jpg" }-->
+# Urban Energy Performance Monitor <!--{ as="img" data-fallback-src="https://workspace-ui-public.baltic-gtif.hub-otc.eox.at/api/public/share/public-4wazei3y-02/UEPM/GeminiGeneratedImage9cx6of9cx6of9cx6-1756889924360_reduced.jpg" mode="hero" src="https://workspace-ui-public.baltic-gtif.hub-otc.eox.at/api/public/share/public-4wazei3y-02/UEPM/GeminiGeneratedImage9cx6of9cx6of9cx6-1756889924360_reduced.jpg" }-->
 ### by OHB Digital Services <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
 ## Problems & Needs
@@ -14,7 +14,7 @@ Europe’s building stock is central to the energy transition. Buildings account
 
 The EU Buildings Climate Tracker provides a useful overall indicator at European level but does not reveal how energy performance varies between cities, neighbourhoods or groups of buildings [[3]](https://build-up.ec.europa.eu/en/resources-and-tools/publications/eu-buildings-climate-tracker-3rd-edition). Municipalities are the actors that need to plan renovation strategies and heating transition pathways, yet they often lack reliable and detailed information that would help them to direct these efforts to the right places.
 
-![](https://raw.githubusercontent.com/cweber1995/baltic-narratives/cweber1995/urban-energy-performance-monitor-uepm/assets/cweber1995/EU-building-climate-tracker-1749975759643-1756887749842.jpg)
+![](https://workspace-ui-public.baltic-gtif.hub-otc.eox.at/api/public/share/public-4wazei3y-02/UEPM/GeminiGeneratedImage9cx6of9cx6of9cx6-1756889924360_reduced.jpg)
 
 *Figure 1 – The EU BCT represents a global index for the whole of the EU. However, conclusions about local settings, trends and forecasts cannot be derived from it. Geographical disaggregation of such an index and of related evidence data would therefore be desirable for supporting more granular policies and a monitoring of their implementation.*
 
