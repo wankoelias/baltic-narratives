@@ -28,5 +28,11 @@ Satellites provide a consistent, large-scale coverage that enables comparisons b
 
 The **Urban Heat Trend Monitor** (UHTM) service  provides a collection of tools for displaying heat distribution within a city in high resolution, determining heat trends over several years, and calculating and displaying urban areas with the same heat trend, enabling local hotspots to be identified quickly and intuitively. For each of these areas, a detailed time series analysis can be retrieved, enabling identification of patterns and extremes over the entire period as well as for specific periods of the year (e.g. summer). The UHTM service processes its results based on satellite data provided by Copernicus, the European Union’s Earth observation program [[2]](https://www.copernicus.eu). It combines data from ESA's Copernicus Sentinel 2 and 3 satellites with Open Street Map features to provide users with easy-to-interpret maps of urban climate information. Super-resolution imaging is used to enhance the resolution of the satellite instruments to a scale of 100 metres allowing the analysis of heat islands and temperature fluctuations at the level of individual neighbourhoods.
 
+## Urban Heat Trend Monitoring Steps <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/AWeihusen/baltic-narratives/AWeihusen/uhtm01/assets/AWeihusen/UHTMVilnius-1758633114733.png" src="https://raw.githubusercontent.com/baltic-gtif/baltic-narratives/309e33acb5c5bcbcee3ad59bd22aff56c8d1fd4c/assets/UHTMVilnius-1758633114733.png" style="width: 100%; height: 100%;"}-->
+<p align="center">
+	<em>Figure 2: Urban heat trend monitoring steps: from LST data to local heat trend analysis.</em>
+</p>
+
 ## Finally
 The **Urban Heat Trend Monitor** service has been developed by OHB Digital Connect as part of the BalticGTIF project within the priority domain **Sustainable Cities** of ESA’s **Green Transition Information Factory (GTIF)** programme [[3]](https://gtif.esa.int).
+
