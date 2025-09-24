@@ -2,12 +2,23 @@
   {
     "cover-image": "https://picsum.photos/id/10/1920/1080",
     "date": "2025-01-01",
-    "theme": "atmosphere",
-    "tags": "climate,pollution",
+    "theme": "Energy Transition",
+    "tags": "Climate, Pollution, Atmosphere",
     "official": true,
-    "file": "https://esa-eodash.github.io/eodashboard-narratives/first_narrative.md",
-    "title": " Story hero title and image",
-    "subtitle": "Hero subtitle text",
+    "file": "https://esa-eodash.github.io/eodashboard-narratives/narrative_template.md",
+    "title": " Narrative Template",
+    "subtitle": "Narrative subtitle text",
     "image": "assets/previews/1080_preview.png"
+  },
+  {
+    "cover-image": "https://workspace-ui-public.baltic-gtif.hub-otc.eox.at/api/public/share/public-4wazei3y-02/UEPM/GeminiGeneratedImage9cx6of9cx6of9cx6-1756889924360_reduced.jpg",
+    "date": "2025-09-06",
+    "theme": "Sustainable Cities",
+    "tags": "remote sensing, surface temperature, Sentinel-3",
+    "official": true,
+    "file": "https://esa-eodash.github.io/eodashboard-narratives/UEPM.md",
+    "title": "Urban Energy Performance Monitor",
+    "subtitle": "by OHB Digital Services",
+    "image": "assets/previews/GeminiGeneratedImage9cx6of9cx6of9cx6-1756889924360_reduced_preview.png"
   }
 ]
