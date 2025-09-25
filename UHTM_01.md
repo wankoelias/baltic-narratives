@@ -4,9 +4,11 @@
 ## Hot town - Summer in the city
 Prolonged periods of extremely high temperatures, known as heat waves, are among the most serious effects of climate change, with record temperatures occurring with increasing frequency. Built-up urban areas and cities are particularly vulnerable to such heat waves: almost half of the approximately 10,000 cities worldwide have been exposed to increased heat over the past four decades [[1]](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/urban-heat-islands-managing-extreme-heat-keep-cities-cool-2024-07-22_en).
 Heat in cities has long-term effects that go beyond temporary discomfort, posing lasting challenges for cities and their residents. Prolonged exposure to high temperatures increases chronic health risks such as cardiovascular, respiratory, and kidney disease, and affects mental well-being. This particularly affects vulnerable groups such as the elderly, children and also people who are particularly exposed to heat due to outdoor work.
-Rising temperatures amplify air pollution, strain water and energy resources, and accelerate environmental degradation. Over time, these effects deepen social inequalities, as low-income households are disproportionately affected because they are more likely to live in older, poorly insulated buildings located in areas with less green space, more sealed surfaces and higher building density.
-## Overview of Urban Heat Island intensities for european cities <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/AWeihusen/baltic-narratives/AWeihusen/uhtm01/assets/AWeihusen/UrbanHeatIslandsEU-1758629786286.png" src="https://raw.githubusercontent.com/baltic-gtif/baltic-narratives/2ee3e0a04ead3a657ade4a38e0e6afce242b3e87/assets/UrbanHeatIslandsEU-1758629786286.png" style="width: 100%; height: 100%;"}-->
-<p align="center">
+Rising temperatures amplify air pollution, strain water and energy resources, and accelerate environmental degradation. Over time, these effects deepen social inequalities, as low-income 
+households are disproportionately affected because they are more likely to live in older, poorly insulated buildings located in areas with less green space, more sealed surfaces and higher building density.
+
+![](https://workspace-ui-public.baltic-gtif.hub-otc.eox.at/api/public/share/public-4wazei3y-02/UHTM/Urban_Heat_Islands_EU.png)
+<p align="left">
 	<em>Figure 1: Overview of Urban Heat Island intensities for European cities.</em>
 </p>
 
@@ -28,8 +30,8 @@ Satellites provide a consistent, large-scale coverage that enables comparisons b
 
 The **Urban Heat Trend Monitor** (UHTM) service  provides a collection of tools for displaying heat distribution within a city in high resolution, determining heat trends over several years, and calculating and displaying urban areas with the same heat trend, enabling local hotspots to be identified quickly and intuitively. For each of these areas, a detailed time series analysis can be retrieved, enabling identification of patterns and extremes over the entire period as well as for specific periods of the year (e.g. summer). The UHTM service processes its results based on satellite data provided by Copernicus, the European Union’s Earth observation program [[2]](https://www.copernicus.eu). It combines data from ESA's Copernicus Sentinel 2 and 3 satellites with Open Street Map features to provide users with easy-to-interpret maps of urban climate information. Super-resolution imaging is used to enhance the resolution of the satellite instruments to a scale of 100 metres allowing the analysis of heat islands and temperature fluctuations at the level of individual neighbourhoods.
 
-## Urban Heat Trend Monitoring Steps <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/AWeihusen/baltic-narratives/AWeihusen/uhtm01/assets/AWeihusen/UHTMVilnius-1758633114733.png" src="https://raw.githubusercontent.com/baltic-gtif/baltic-narratives/309e33acb5c5bcbcee3ad59bd22aff56c8d1fd4c/assets/UHTMVilnius-1758633114733.png" style="width: 100%; height: 100%;"}-->
-<p align="center">
+![](https://workspace-ui-public.baltic-gtif.hub-otc.eox.at/api/public/share/public-4wazei3y-02/UHTM/UHTM_Vilnius.png)
+<p align="left">
 	<em>Figure 2: Urban heat trend monitoring steps: from LST data to local heat trend analysis.</em>
 </p>
 
