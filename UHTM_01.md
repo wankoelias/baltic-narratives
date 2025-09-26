@@ -1,3 +1,11 @@
+---
+cover-image: https://raw.githubusercontent.com/baltic-gtif/baltic-narratives/ac5ae95613b676b642124135324ad020c3a6272f/assets/iStock-1159485884-1757949441967.jpg
+date: 2025-09-26
+theme: Sustainable Cities
+tags: remote sensing, surface temperature, Sentinel-3
+official: true
+---
+
 # Urban Heat Trend Monitor <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/AWeihusen/baltic-narratives/AWeihusen/uhtm01/assets/AWeihusen/iStock-1159485884-1757949441967.jpg" mode="hero" src="https://raw.githubusercontent.com/baltic-gtif/baltic-narratives/ac5ae95613b676b642124135324ad020c3a6272f/assets/iStock-1159485884-1757949441967.jpg" }-->
 ### By OHB Digital Connect <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
