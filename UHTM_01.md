@@ -6,7 +6,7 @@ tags: remote sensing, surface temperature, Sentinel-3
 official: true
 ---
 
-# Urban Heat Trend Monitor <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/AWeihusen/baltic-narratives/AWeihusen/uhtm02/assets/AWeihusen/iStock-1159485884-1760001444449.jpg" mode="hero" src="https://raw.githubusercontent.com/baltic-gtif/baltic-narratives/eb2c3f16bd5a849379e6404e3769d066c9507c02/assets/iStock-1159485884-1760001444449.jpg" }-->
+# Urban Heat Trend Monitor <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/AWeihusen/baltic-narratives/AWeihusen/uhtm02/assets/AWeihusen/iStock-1159485884-1760001342937.jpg" mode="hero" src="https://raw.githubusercontent.com/baltic-gtif/baltic-narratives/eb2c3f16bd5a849379e6404e3769d066c9507c02/assets/iStock-1159485884-1760001342937.jpg" }-->
 ### by OHB Digital Connect <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
 ## Hot town - Summer in the city
