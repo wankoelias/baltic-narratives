@@ -6,8 +6,8 @@ tags: remote sensing, surface temperature, Sentinel-3
 official: true
 ---
 
-# Urban Heat Trend Monitor <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/AWeihusen/baltic-narratives/AWeihusen/uhtm01/assets/AWeihusen/iStock-1159485884-1757949441967.jpg" mode="hero" src="https://raw.githubusercontent.com/baltic-gtif/baltic-narratives/ac5ae95613b676b642124135324ad020c3a6272f/assets/iStock-1159485884-1757949441967.jpg" }-->
-### By OHB Digital Connect <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
+# Urban Heat Trend Monitor <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/AWeihusen/baltic-narratives/AWeihusen/uhtm02/assets/AWeihusen/iStock-1159485884-1760001444449.jpg" mode="hero" src="https://raw.githubusercontent.com/baltic-gtif/baltic-narratives/eb2c3f16bd5a849379e6404e3769d066c9507c02/assets/iStock-1159485884-1760001444449.jpg" }-->
+### by OHB Digital Connect <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
 ## Hot town - Summer in the city
 Prolonged periods of extremely high temperatures, known as heat waves, are among the most serious effects of climate change, with record temperatures occurring with increasing frequency. Built-up urban areas and cities are particularly vulnerable to such heat waves: almost half of the approximately 10,000 cities worldwide have been exposed to increased heat over the past four decades [[1]](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/urban-heat-islands-managing-extreme-heat-keep-cities-cool-2024-07-22_en).
