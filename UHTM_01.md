@@ -17,7 +17,7 @@ households are disproportionately affected because they are more likely to live 
 
 ![](https://workspace-ui-public.baltic-gtif.hub-otc.eox.at/api/public/share/public-4wazei3y-02/UHTM/Urban_Heat_Islands_EU.png)
 <p align="left">
-	<em>Figure 1: Overview of Urban Heat Island intensities for European cities.</em>
+	<em>Figure 1: Overview of Urban Heat Island intensities for European cities.</em> 
 </p>
 
 ## Living on an island
