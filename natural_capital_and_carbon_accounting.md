@@ -5,6 +5,7 @@ tags: Biodiversity, Carbon, Natural Capital
 
 ---
 
+
 # Natural Capital & Carbon Accounting <!--{ as="img" mode="hero" src="https://workspace-ui-public.baltic-gtif.hub-otc.eox.at/api/public/share/public-4wazei3y-02/NCS/narrative/hero.jpg" }-->
 ### by EOX IT Services <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
 
