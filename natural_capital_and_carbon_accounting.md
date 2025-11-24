@@ -7,19 +7,18 @@ tags: Biodiversity, Carbon, Natural Capital
 ---
 
 # Natural Capital & Carbon Accounting <!--{ as="img" mode="hero" src="https://placehold.co/600x400/png" }-->
-### Hero Subtitle <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
+### by EOX IT Services <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
 
 ## Problem & Needs
 
 Nature is our primary asset, while natural and semi-natural ecosystems reflect back how humans implement land use. Ecosystems are tolerating and changing; but they do present complex services. Earth observation offers various measuring methods \- with objectivity and repeatability \- to detect the reactions and changes of ecosystems. Our ambition is to present models capable of estimating the impact of the detected ecosystem service changes.       
-The current  geospatial analytics dashboard presents the assessment of extensive High Nature Value Grassland as part of agricultural landscapes in  Lithuania as a pilot use case for the Baltic States.  
-— 
+The current  geospatial analytics dashboard presents the assessment of extensive High Nature Value Grassland as part of agricultural landscapes in  Lithuania as a pilot use case for the Baltic States. 
 
 Natural grasslands  in Lithuania (and further European countries) are currently under pressure due to intensified food production and the conversion of permanent grasslands (PG) into arable land (AL). As the availability of former Common Agricultural Policy (CAP) land is insufficient to meet the new production demand and/or it is more profitable, farmers increasingly plough their grassland parcels based on logistic-driven decisions, without evaluating the ecosystem services of a particular agricultural parcel soil health, buffer capacity, ecosystem connectivity and biodiversity. However and notably, old meadows and biodiversity-rich grasslands: 
 
-- can store up to 320t CO2E/hectare of which a larger proportion will be emitted due to ploughing while restoration takes up to 20+ years;  
-- serves as part of ecological network enabling the spread of species, the variability of biotopes;    
-- serving as a security buffer against nitrogen leakage from intensively managed arable parcels along water bodies and vulnerable vetland habitats. 
+* can store up to 320t CO2E/hectare of which a larger proportion will be emitted due to ploughing while restoration takes up to 20+ years;  
+* serves as part of ecological network enabling the spread of species, the variability of biotopes;    
+* serving as a security buffer against nitrogen leakage from intensively managed arable parcels along water bodies and vulnerable vetland habitats. 
 
 This trend has raised concern within NGOs and national administrations, prompting the need for a deeper understanding of the drivers, spatial extent, and environmental impacts of PG-to-AL conversions. Ministries seek data and tools that can support evidence-based policymaking to balance economic competitiveness with sustainable land management and CAP compliance. To implement really performance-based CAP adjustments, ministries across EU Member States aim to:
 
@@ -46,6 +45,7 @@ Due to the large root surface and microbial activity, natural grasslands act as 
 Grassland parcels converted to arable land are part of a larger ecosystem network, where the ecosystem-connectivity relations and the diversity of land use/land cover had been changed. The loss is scaled by an ecosystem connectivity index of the parcel, based on the variability of neighbouring ecosystems.  
 
 \*\*\*\*\*\* here can come a picture of parcels  \*\*\*\*\*
+![](https://placehold.co/600x400/png)
 
 ## Delivery Process
 
@@ -65,12 +65,11 @@ The following information products are available for the area of Lithuania:
 * Possible SOC content under 20 years of using conventional land management practices  {y2045}  
 * Possible SOC content under 20 years of sustainable soil management practices {y2045}
 
-
-[ { "type": "Group", "properties": { "id": "OverlayGroup", "title": "Overlay Layers" }, "layers": [ { "type": "Tile", "properties": { "id": "overlay_bright;:;EPSG:3857", "title": "Overlay labels" }, "source": { "type": "XYZ", "url": "//tiles.maps.eox.at/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png", "projection": "EPSG:3857" } } ] }, { "type": "Group", "properties": { "id": "AnalysisGroup", "title": "Data Layers" }, "layers": [ { "type": "Vector", "source": { "type": "FlatGeoBuf", "url": "https://workspace-ui-public.baltic-gtif.hub-otc.eox.at/api/public/share/public-4wazei3y-02/NCS/SOC/pg_soc_gsa_lt_2024_t0.fgb", "format": "GeoJSON" }, "properties": { "id": "soc_lithuania_gsa;:;2024-01-01T00:00:00Z;:;0", "title": "SOC Lithuania - Parcels" } } ] }, { "type": "Group", "properties": { "id": "BaseLayersGroup", "title": "Base Layers" }, "layers": [ { "type": "Tile", "properties": { "id": "cloudless-2024;:;EPSG:3857", "title": "EOxCloudless 2024" }, "source": { "type": "XYZ", "url": "//tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2024_3857/default/g/{z}/{y}/{x}.jpeg", "projection": "EPSG:3857" } } ] } ]
+![](https://placehold.co/600x400/png)
 
 *Figure 1 – GTIF Baltic demonstrator SOC content derived by parcel, based on FAO and NPA data, East-South part of Lithuania* 
 
-*![][image3]*
+![](https://placehold.co/600x400/png)*
 
 *Figure 2 – Parcels sequesting CO2 Equivalent*   
 *up to 10t per year* 
@@ -84,6 +83,9 @@ Data are calculated with the following settings:
 * Overlapping Thematics: When GSA parcels overlap with other thematic areas, an area-weighted average is calculated.  
 * Statistical Areas: Statistics are available for regional (county, NUTS-3), settlement, and for  agroecological regions.  
 * Uncertainty  values delivered by the data custodian are always taken into account, thus a conservative scenario is presented. 
+
+
+
 
 ## About 
 
