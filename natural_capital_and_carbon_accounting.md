@@ -1,12 +1,12 @@
 ---
-cover-image: https://placehold.co/600x400/png
+cover-image: https://raw.githubusercontent.com/baltic-gtif/assets/refs/heads/main/thumbnails/soc_lt.png
 date: 2025-01-01
 theme: Carbon Accounting
 tags: Biodiversity, Carbon, Natural Capital
 
 ---
 
-# Natural Capital & Carbon Accounting <!--{ as="img" mode="hero" src="https://placehold.co/600x400/png" }-->
+# Natural Capital & Carbon Accounting <!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/baltic-gtif/assets/refs/heads/main/thumbnails/soc_lt.png" }-->
 ### by EOX IT Services <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
 
 ## Problem & Needs
