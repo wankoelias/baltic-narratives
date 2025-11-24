@@ -13,17 +13,17 @@ tags: Biodiversity, Carbon, Natural Capital
 Nature is our primary asset, while natural and semi-natural ecosystems reflect back how humans implement land use. Ecosystems are tolerating and changing; but they do present complex services. Earth observation offers various measuring methods \- with objectivity and repeatability \- to detect the reactions and changes of ecosystems. Our ambition is to present models capable of estimating the impact of the detected ecosystem service changes.       
 The current  geospatial analytics dashboard presents the assessment of extensive High Nature Value Grassland as part of agricultural landscapes in  Lithuania as a pilot use case for the Baltic States. 
 
-Natural grasslands  in Lithuania (and further European countries) are currently under pressure due to intensified food production and the conversion of permanent grasslands (PG) into arable land (AL). As the availability of former Common Agricultural Policy (CAP) land is insufficient to meet the new production demand and/or it is more profitable, farmers increasingly plough their grassland parcels based on logistic-driven decisions, without evaluating the ecosystem services of a particular agricultural parcel soil health, buffer capacity, ecosystem connectivity and biodiversity. However and notably, old meadows and biodiversity-rich grasslands: 
+Natural grasslands  in Lithuania (and further European countries) are currently under pressure due to intensified food production and the conversion of permanent grasslands (PG) into arable land (AL). As the availability of former Common Agricultural Policy (CAP) land is insufficient to meet the new production demand and/or it is more profitable, farmers increasingly plough their grassland parcels based on logistic-driven decisions, without evaluating the ecosystem services of a particular agricultural parcel soil health, buffer capacity, ecosystem connectivity and biodiversity. However nd notably, old meadows and biodiversity-rich grasslands: 
 
 * can store up to 320t CO2E/hectare of which a larger proportion will be emitted due to ploughing while restoration takes up to 20+ years;  
-* serves as part of ecological network enabling the spread of species, the variability of biotopes;    
+* serves as part of ecological network enabling the spread of species, the variability of biotopes; 
 * serving as a security buffer against nitrogen leakage from intensively managed arable parcels along water bodies and vulnerable vetland habitats. 
 
 This trend has raised concern within NGOs and national administrations, prompting the need for a deeper understanding of the drivers, spatial extent, and environmental impacts of PG-to-AL conversions. Ministries seek data and tools that can support evidence-based policymaking to balance economic competitiveness with sustainable land management and CAP compliance. To implement really performance-based CAP adjustments, ministries across EU Member States aim to:
 
 * ensure sustainable agricultural productivity while aligning with EU Green Deal targets;  
-* prevent irreversible permanent grassland losses by monitoring and regulating land conversions;  
-* promote higher value-added agri-food exports without degrading ecosystems or violating CAP greening requirement;.  
+* prevent irreversible permanent grassland losses by monitoring and regulating land conversions; 
+* promote higher value-added agri-food exports without degrading ecosystems or violating CAP greening requirement;
 * develop data-informed land use governance integrating sustainability with economic, environmental and biodiversity objectives.
 
 Meanwhile, the interest by private market actors such as food corporations and risk management agents such as Banks and Insurers is rising to understand natural value as a key to manage and mitigate physical (climate) risks \- e.g. via Hula Earth, RESTORE, KLIM, InSoil, Farmonaut, Landscape Enterprise Networks for Nestle, Danone, Swedbank, Caixa, BNP Paribas, ING, Swiss Re, Howden Group. The ever increasing availability of EO data combined with ground-truth information allows for a rise in monitoring, reporting and verification activities (dMRV) that can further support large-scale financing developments towards regenerative and biodiversity oriented land management activities in Europe involving wider financial market actors.
