@@ -1,5 +1,4 @@
 ---
-cover-image: https://raw.githubusercontent.com/baltic-gtif/assets/refs/heads/main/thumbnails/soc_lt.png
 date: 2025-01-01
 theme: Carbon Accounting
 tags: Biodiversity, Carbon, Natural Capital
