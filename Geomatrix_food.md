@@ -7,8 +7,27 @@ tags: some,tags
 ---
 
 # Climate-Resilient Food Production Systems  <!--{ as="img" mode="hero" src="https://placehold.co/600x400/png" }-->
-### Hero Subtitle <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
+### By GEOMATRIX <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
 
-## First section
+## Problem
 
-Some text for the first section
+Climate change increases the frequency and severity of extreme weather events. Agricultural land is particularly susceptible to damage caused by summer storms. Strong winds and heavy rainfall are the main reason for drastic yield losses due to crop lodging and drowning. Soft ground caused by flooding can also restrict access to fields. To analyse the impact of extreme weather events on agricultural production, insurance companies and farmers need precise information on the locations and severity of crop damage and the level of soil moisture in specific fields. 
+
+## Solution
+
+The Climate-Resilient Food Production Systems uses SAR data from ESA’s Sentinel 1A satellite to provide users with information on crop damage per plot and access restrictions for heavy machinery due to wet ground. New algorithms enable the automatic detection and evaluation of crop lodging as well as the calculation of soil moisture indices. The information can be used to accurately quantify crop losses and analyse the profitability of farming certain fields in view of the expected consequences of climate change.
+
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/giedriuskaveckis/baltic-narratives/giedriuskaveckis/session-4/assets/giedriuskaveckis/Sentinel-1-1764086715727.jpg" src="https://raw.githubusercontent.com/baltic-gtif/baltic-narratives/fa36749247d14550f9a6948ee4f0c028b6867fa6/assets/Sentinel-1-1764086715727.jpg" style="width: 100%; height: 600px;"}-->
+
+## Service
+
+Climate-resilient and sustainable food production systems services include two capabilities: detection and monitoring of crop flooding events (including regular spring floods) and detection of crop lodging (dumping) by extreme weather conditions like extreme storms with strong winds and hail. Crop flooding analysis is based on monthly statistics derived from full time series of Sentinel-1 data and covers three scenarios: (1) high moisture level lasting for ~1/3 duration of the month, (2) medium moisture level lasting for ~1/2 duration of the month and (3) low moisture level lasting for ~2/3 duration of the month. All three scenarios are summarised in separate layers of per-parcel flooding maps. 
+
+PICTURE - FOOD 1
+
+Detection of crop lodging is based on change detection threshold values computed from Sentinel-1 polarimetry SAR statistics sampled during decades 1-10 and 20-30. Analysis was performed only on winter and spring cereals, which are most vulnerable to crop lodging. Percentage of area indicating crop dumping (including severe cases of lodging) was summarised on the level of single parcels.
+
+PICTURE - FOOD 2 
+
+The service has been developed by GEOMATRIX t as part of the BalticGTIF project within the priority
+domain of ESAʼs programme .
