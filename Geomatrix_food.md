@@ -1,6 +1,6 @@
 ---
 date: 2025-11-26
-theme: Agriculture
+theme: EO Adaptation Services
 tags: food, soil moisture, flooding
 
 ---
