@@ -1,8 +1,8 @@
 ---
-cover-image: https://placehold.co/600x400/png
-date: 2025-01-01
-theme: theme_name
-tags: some,tags
+
+date: 2025-11-26
+theme: Carbon Accounting
+tags: Logging
 
 ---
 
@@ -20,12 +20,15 @@ The Forest Monitoring and Adaptation to Climate Change combines data from ESA’
 ## Services
 
 Forest monitoring and adaptation service covers the entire area of Lithuania and is focused regular detection of large and small patches of forest cover loss, measured by change detection of Sentinel-1 SAR signal change detection. This service is capable of automatic and objective detection of all potential sites where possible loss of trees took place. The smallest object detected by the service is 10x10m (1 pixel), and there are no specific filters applied to eliminate single pixels. The most valuable part of forest monitoring and adaptation service is regular update of statistical values of potential forest loss on the level of a single forest taxation plot, which is a minimum mapping unit of the forest cover used as a framework for all forestry planning and management activities. This service detects not only large clear-cuts, but also illegal logging sites and even large tree falls all over the county with precise geo-tagging on the most detailed forestry map.
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/giedriuskaveckis/baltic-narratives/giedriuskaveckis/forestcoetus/assets/giedriuskaveckis/Forest1-1764104883616.png" src="https://raw.githubusercontent.com/baltic-gtif/baltic-narratives/eeff544fc86e022a52bbe89c9c62b2174ecf1f3e/assets/Forest1-1764104883616.png" style="width: 100%; height: 100%;"}-->
+
+![](https://raw.githubusercontent.com/giedriuskaveckis/baltic-narratives/giedriuskaveckis/forestcoetus/assets/giedriuskaveckis/Forest1-1764104883616.png)
 
 Regional mapping of the actual tree cover loss (including clear-cuts and natural events) is based on polarimetry SAR signal change detection between two consequent sampling periods. As most of the forest clear-cut or tree cover loss sites are relatively small (less than 10 ha), those objects - although quite abundant - are practically invisible on a small scale of a regional map. Therefore we introduced an additional layer of points marking the locations of detected forest cover loss sites with additional attribute of approximate object size, which was used as numeric parameter to represent relative size of a clear-cut on a regional map and helt to navigate further by zooming to the actual forest cover loss locations while zooming the map, as shown in the following examples. 
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/giedriuskaveckis/baltic-narratives/giedriuskaveckis/forestcoetus/assets/giedriuskaveckis/Forest2-1764104959180.png" src="https://raw.githubusercontent.com/baltic-gtif/baltic-narratives/ce60c1128397685f18fcaf521831759b6c42b6ae/assets/Forest2-1764104959180.png" style="width: 100%; height: 100%;"}-->
 
-The Forest Monitoring and Adaptation to Climate Change service has been developed by COETUS as part of the BalticGTIF project within the priority domain Sustainable Cities of ESA’s Green Transition Information Factory (GTIF) programme .
+![](https://raw.githubusercontent.com/giedriuskaveckis/baltic-narratives/giedriuskaveckis/forestcoetus/assets/giedriuskaveckis/Forest2-1764104959180.png)
+
+
+The Forest Monitoring and Adaptation to Climate Change service has been developed by COETUS as part of the BalticGTIF project within the priority domain Carbon Accounting of ESA’s Green Transition Information Factory (GTIF) programme .
 
 
 
