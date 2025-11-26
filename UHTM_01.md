@@ -6,19 +6,20 @@ tags: remote sensing, surface temperature, Sentinel-3
 official: true
 ---
 
-# Urban Heat Trend Monitor <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/AWeihusen/baltic-narratives/AWeihusen/uhtm01/assets/AWeihusen/iStock-1159485884-1757949441967.jpg" mode="hero" src="https://raw.githubusercontent.com/baltic-gtif/baltic-narratives/ac5ae95613b676b642124135324ad020c3a6272f/assets/iStock-1159485884-1757949441967.jpg" }-->
-### By OHB Digital Connect <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
+# Urban Heat Trend Monitor <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/AWeihusen/baltic-narratives/AWeihusen/uhtm02/assets/AWeihusen/iStock-1159485884-1760001342937.jpg" mode="hero" src="https://raw.githubusercontent.com/baltic-gtif/baltic-narratives/eb2c3f16bd5a849379e6404e3769d066c9507c02/assets/iStock-1159485884-1760001342937.jpg" }-->
+### by OHB Digital Connect <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
 ## Hot town - Summer in the city
 Prolonged periods of extremely high temperatures, known as heat waves, are among the most serious effects of climate change, with record temperatures occurring with increasing frequency. Built-up urban areas and cities are particularly vulnerable to such heat waves: almost half of the approximately 10,000 cities worldwide have been exposed to increased heat over the past four decades [[1]](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/urban-heat-islands-managing-extreme-heat-keep-cities-cool-2024-07-22_en).
 Heat in cities has long-term effects that go beyond temporary discomfort, posing lasting challenges for cities and their residents. Prolonged exposure to high temperatures increases chronic health risks such as cardiovascular, respiratory, and kidney disease, and affects mental well-being. This particularly affects vulnerable groups such as the elderly, children and also people who are particularly exposed to heat due to outdoor work.
 Rising temperatures amplify air pollution, strain water and energy resources, and accelerate environmental degradation. Over time, these effects deepen social inequalities, as low-income 
-households are disproportionately affected because they are more likely to live in older, poorly insulated buildings located in areas with less green space, more sealed surfaces and higher building density.
+households are disproportionately affected because they are more likely to live in older, poorly insulated buildings located in areas with less green space, more sealed surfaces and higher building density. 
 
 ![](https://workspace-ui-public.baltic-gtif.hub-otc.eox.at/api/public/share/public-4wazei3y-02/UHTM/Urban_Heat_Islands_EU.png)
 <p align="left">
-	<em>Figure 1: Overview of Urban Heat Island intensities for European cities.</em>
+	<em>Figure 1: Overview of Urban Heat Island intensities for European cities </em> <a href="https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/urban-heat-islands-managing-extreme-heat-keep-cities-cool-2024-07-22_en" target="_blank">[1]</a>
 </p>
+
 
 ## Living on an island
 Cities heat up more than their rural surroundings due to the urban heat island effect, whereby concrete, asphalt, and dense development absorb and store heat far more than natural landscapes. Street canyons further amplify this effect by reduced air circulation and increased reflection of solar radiation between buildings. The lack of trees, parks, and bodies of water reduces natural cooling, while cars, air conditioning, and industry further heat up the environment. As a result, temperatures in urban areas can be several degrees higher than in surrounding rural areas, especially at night when heat is slowly released from buildings and roads. 
