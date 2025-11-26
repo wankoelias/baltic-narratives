@@ -6,8 +6,8 @@ tags: Logging
 
 ---
 
-# Forest Monitoring and Adaptation to Climate Change  <!--{ as="img" mode="hero" src="https://placehold.co/600x400/png" }-->
-### By COETUS <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
+# Forest Monitoring and Adaptation to Climate Change<!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/baltic-narratives/triebnigg/gerhard-review-forrestcoetus/assets/triebnigg/shutterstock1773562598-1-1764150232239.jpg" mode="hero" src="https://raw.githubusercontent.com/baltic-gtif/baltic-narratives/d7a1ac0b9ab711375b9e6f2d4a59cd58e08f3fb9/assets/shutterstock1773562598-1-1764150232239.jpg" }-->
+### by COETUS<!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
 ## Problem
 
