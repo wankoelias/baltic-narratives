@@ -11,10 +11,10 @@ tags: Biodiversity, Carbon, Natural Capital
 
 ## Problem & Needs
 
-Nature is our primary asset, while natural and semi-natural ecosystems reflect back how humans implement land use. Ecosystems are tolerating and changing; but they do present complex services. Earth observation offers various measuring methods \- with objectivity and repeatability \- to detect the reactions and changes of ecosystems. Our ambition is to present models capable of estimating the impact of the detected ecosystem service changes.       
+Nature is our primary asset, while natural and semi-natural ecosystems reflect back how humans implement land use. Ecosystems are tolerating and changing but they do present complex services. Earth observation offers various measuring methods \- with objectivity and repeatability \- to detect the reactions and changes of ecosystems. The ambition is to present models capable of estimating the impact of the detected ecosystem service changes.       
 The current  geospatial analytics dashboard presents the assessment of extensive High Nature Value Grassland as part of agricultural landscapes in  Lithuania as a pilot use case for the Baltic States. 
 
-Natural grasslands  in Lithuania (and further European countries) are currently under pressure due to intensified food production and the conversion of permanent grasslands (PG) into arable land (AL). As the availability of former Common Agricultural Policy (CAP) land is insufficient to meet the new production demand and/or it is more profitable, farmers increasingly plough their grassland parcels based on logistic-driven decisions, without evaluating the ecosystem services of a particular agricultural parcel soil health, buffer capacity, ecosystem connectivity and biodiversity. However nd notably, old meadows and biodiversity-rich grasslands: 
+Natural grasslands  in Lithuania (and further European countries) are currently under pressure due to intensified food production and the conversion of permanent grasslands (PG) into arable land (AL). As the availability of former Common Agricultural Policy (CAP) land is insufficient to meet the new production demand and/or it is more profitable, farmers increasingly plough their grassland parcels based on logistic-driven decisions, without evaluating the ecosystem services of a particular agricultural parcel soil health, buffer capacity, ecosystem connectivity and biodiversity. However and notably, old meadows and biodiversity-rich grasslands: 
 
 * can store up to 320t CO2E/hectare of which a larger proportion will be emitted due to ploughing while restoration takes up to 20+ years;  
 * serves as part of ecological network enabling the spread of species, the variability of biotopes; 
@@ -44,8 +44,10 @@ Due to the large root surface and microbial activity, natural grasslands act as 
 
 Grassland parcels converted to arable land are part of a larger ecosystem network, where the ecosystem-connectivity relations and the diversity of land use/land cover had been changed. The loss is scaled by an ecosystem connectivity index of the parcel, based on the variability of neighbouring ecosystems.  
 
-\*\*\*\*\*\* here can come a picture of parcels  \*\*\*\*\*
-![](https://placehold.co/600x400/png)
+
+![](https://workspace-ui-public.baltic-gtif.hub-otc.eox.at/api/public/share/public-4wazei3y-02/NCS/narrative/Figure_1.JPG)
+
+*Figure 1 – Conversion of permanent grassland to arable land and to temporary grassland between 2 years*
 
 ## Delivery Process
 
@@ -65,14 +67,14 @@ The following information products are available for the area of Lithuania:
 * Possible SOC content under 20 years of using conventional land management practices  {y2045}  
 * Possible SOC content under 20 years of sustainable soil management practices {y2045}
 
-![](https://placehold.co/600x400/png)
+![](https://workspace-ui-public.baltic-gtif.hub-otc.eox.at/api/public/share/public-4wazei3y-02/NCS/narrative/Figure_2.png)
 
-*Figure 1 – GTIF Baltic demonstrator SOC content derived by parcel, based on FAO and NPA data, East-South part of Lithuania* 
+*Figure 2 – GTIF Baltic demonstrator SOC content derived by parcel, based on FAO and NPA data, East-South part of Lithuania* 
 
-![](https://placehold.co/600x400/png)*
+![](https://workspace-ui-public.baltic-gtif.hub-otc.eox.at/api/public/share/public-4wazei3y-02/NCS/narrative/Figure_3.png)
 
-*Figure 2 – Parcels sequesting CO2 Equivalent*   
-*up to 10t per year* 
+*Figure 3 – Parcels sequestering different amount of
+CO2 Equivalent per year, depending on their size, soil parameters and land management indicated by vegetation cover*   
 
 Re-use of these data or taking screenshots of the dashboard for non-commercial use is permitted when the attribution **“© EOX generated using Copernicus Sentinel data”** is added. For other uses, stakeholder-friendly [service subscription plans](#heading=h.ybk6v1dnmkw) are offered. 
 
