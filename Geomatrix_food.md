@@ -1,12 +1,12 @@
 ---
-cover-image: https://placehold.co/600x400/png
+cover-image: https://github.com/baltic-gtif/assets/blob/main/thumbnails/sm_lt.png
 date: 2025-01-01
 theme: theme_name
 tags: some,tags
 
 ---
 
-# Climate-Resilient Food Production Systems  <!--{ as="img" mode="hero"  src="https://raw.githubusercontent.com/baltic-gtif/baltic-narratives/1a23b7dc54eb1d9cddacc6142cfb3809fd937c00/assets/Food-main-1764104353724.jpg" }-->
+# Climate-Resilient Food Production Systems  <!--{ as="img" mode="hero"  src="https://raw.githubusercontent.com/giedriuskaveckis/baltic-narratives/giedriuskaveckis/session-4/assets/giedriuskaveckis/Food-main-1764104353724.jpg" }-->
 ### By GEOMATRIX <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
 
 
