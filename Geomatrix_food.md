@@ -30,8 +30,23 @@ Detection of crop lodging is based on change detection threshold values computed
 
 ![](https://raw.githubusercontent.com/giedriuskaveckis/baltic-narratives/giedriuskaveckis/session-4/assets/giedriuskaveckis/Food2-1764104284173.png)
 
-The service has been developed by GEOMATRIX as part of the BalticGTIF project within the priority
-domain of ESAʼs programme .
+## About
+
+The Baltic GTIF activity is part of the Green Transition Information Factory, an initiative supported by the European Space Agency that fosters innovative services based on Earth Observation for climate and energy transition.
+The Climate-Resilient Food Production Systems’ capability is developed and delivered by Geomatrix which is responsible for service development, design, data processing, visualization and analytics. The cloud infrastructure and integration for advanced applications are provided by EOX IT Services. Both partners contribute extensive expertise in Earth Observation, geospatial analytics and user focused digital services.
+
+## Subscriptions
+
+The Climate-Resilient Food Production Systems’ (CRFPS) service is offered as a subscription service with flexible conditions depending on the size of the area, the update frequency and the preferred mode of delivery. Agencies and municipalities can subscribe to dashboard access, to API integration, or to regular report delivery according to their requirements.
+A free demonstration version of the CRFPS service is available for selected pilot cities. Further pre-commercial demonstration projects may apply for sponsorship through the ESA Network of Resources. This enables municipalities to evaluate the service without or reduced initial investments.
+Optional features include custom dashboards adjusted to user key performance indicators, automated reporting routines, and advanced visualization tools to support communication with stakeholders and citizens.
+
+
+
+
+
+
+
 
 
 

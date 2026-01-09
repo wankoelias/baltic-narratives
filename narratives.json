@@ -18,6 +18,15 @@
     "image": "assets/previews/Food-main-1764104353724_preview.png"
   },
   {
+    "date": "2025-01-01",
+    "theme": "Carbon Accounting",
+    "tags": "Biodiversity, Carbon, Natural Capital",
+    "file": "https://esa-eodash.github.io/eodashboard-narratives/natural_capital_and_carbon_accounting.md",
+    "title": "Natural Capital & Carbon Accounting",
+    "subtitle": "by EOX IT Services",
+    "image": "assets/previews/hero_preview.png"
+  },
+  {
     "cover-image": "https://picsum.photos/id/10/1920/1080",
     "date": "2025-01-01",
     "theme": "Energy Transition",
